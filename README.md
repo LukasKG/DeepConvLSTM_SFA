@@ -1,0 +1,2 @@
+L. Günthermann, L. Pellatt and D. Roggen, "Slow Feature Preprocessing in Deep Neural Networks for Wearable Sensor-Based Locomotion Recognition," 2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Pisa, Italy, 2022, pp. 58-61, doi: 10.1109/PerComWorkshops53856.2022.9767511.
+keywords: {Deep learning;Training;Pervasive computing;Convolution;Conferences;Neural networks;Transportation;slow feature analysis;human activity recognition}, 
